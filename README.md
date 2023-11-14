@@ -230,7 +230,7 @@ The relevant dates for the project are shown in the following calendar.
 | **Stage**                        | **Deadline**                                                   |
 | ---------------------------------|----------------------------------------------------------------|
 | 1. Assemble team                 | Inform teacher in your lab session (limit: Friday, November 17th, 2023) |
-| 2. Pick scenario                 | Topic list published: Tuesday, November 14th<br />Form opens: Thursday, November 16th, 12:00<br />**Closes: Friday, November 17th, 17:00** |
+| 2. Pick scenario                 | Topic list published: Tuesday, November 14th<br />Form opens: Friday, November 17th, 11:30<br />**Closes: Monday, November 20th, 11:30** |
 | 3. Design a secure document format          | During the week of November 20th |
 | 4. Implement secure document format | During the week of November 27th |
 | 5. Build infrastructure       | During the week of December 4th |
