@@ -187,7 +187,9 @@ A template for the report will be provided.
 
 ## 1.10. Submit code and report
 
-Before the final deadline of the project, submit all the developed code and resources, and the revised report, to reflect the final version of the work.
+Before the final deadline of the project, submit all the developed code and resources, and the revised report, to reflect the final version of the work:
+  - make sure you have pushed all the changes in the code, `REPORT.md` and `README.md` files to the Git repository;
+  - create a release tag called `ready`.
 
 ## 1.11. Check presentation session
 
@@ -222,6 +224,11 @@ It is highly recommended that each presentation includes slides detailing:
 
 Each group member must participate and talk in the presentation, and be prepared to answer individual questions.  
 If necessary, a more detailed discussion will be scheduled with each group.
+
+Until the end of the day of your presentation session:
+  - add presentation slides to the Git repository (both `PRESENTATION.pptx` and `PRESENTATION.pdf`);
+  - add a `VIDEO.url` text file with a link for downloading the demonstration video file. The link should be valid for at least 7 days;
+  - create a release tag called `done`.
 
 # 2. Calendar
 
